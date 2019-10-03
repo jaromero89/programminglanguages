@@ -1,0 +1,4 @@
+let rec append = \l1.\l2. if l1 = # then l2
+                          else if l2 = # then l1
+                          else (hd l1):(append (tl l1) (l2)) in
+let rec reverse = \l. if l = # then # else append (reverse(tl l)) (hd l):# in reverse a:b:c:d:e:#

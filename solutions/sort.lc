@@ -1,0 +1,13 @@
+let not = \k. if k = 0 then 0 else S 0 in
+let rec sub = \x.\y. if y = 0 then x else  minus_one (sub x (minus_one y)) in
+let le = \a.\b. if not (sub a b) = 0 then S 0
+                else if not (sub a b) = S 0 then 0
+                else if a = b then S 0
+                else S 0 in
+let rec append = \l1.\l2. if l1 = # then l2
+                else (hd l1):(append(tl l1) (l2)) in
+let rec insert = \i.\l. if l = # then i:#
+                else if le i (hd l) = S 0 then append (i:#) (l)
+                else (hd l):(insert i (tl l)) in
+let rec sort = \m. if m = # then #
+               else insert (hd m) (sort (tl m)) in sort S S 0:S 0:0:#

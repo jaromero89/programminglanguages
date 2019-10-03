@@ -1,0 +1,64 @@
+/Users/jlloyd/.stack/programs/x86_64-osx/ghc-8.6.4/lib/ghc-8.6.4/include/ghcconfig.h:
+  hash: 03f4611ae97decc9e8c76c212bf7886d003b29d5c62b43fee6623a799f6e5fdf
+  size: 64
+  modtime: 1569870352
+/Users/jlloyd/programming-languages-2019/Assignment1/src/TestLambdaNat.hs:
+  hash: eaf5c23d819f546188117c9350e5cbbad13e60b998162a5c6e1ea4bfab3a8c50
+  size: 1924
+  modtime: 1569873520
+/Users/jlloyd/programming-languages-2019/Assignment1/LambdaNat.cabal:
+  hash: e05a2dfb800e6acadad189c73eb39ed19e65cf6a9e3c4e03ae9bbf89e71199ff
+  size: 1442
+  modtime: 1569873620
+/Users/jlloyd/.stack/programs/x86_64-osx/ghc-8.6.4/lib/ghc-8.6.4/include/ghcautoconf.h:
+  hash: f0efd2bdcf82a9005ea5631525474821818b8ff9911d33d958d9603d0f56cd78
+  size: 14703
+  modtime: 1569870352
+/Users/jlloyd/programming-languages-2019/Assignment1/src/ErrM.hs:
+  hash: a6366e5547df837872a72caa4ed58912df2dd17b5bee8170addad1cf86d36f18
+  size: 777
+  modtime: 1569873441
+/Users/jlloyd/programming-languages-2019/Assignment1/package.yaml:
+  hash: b8d8fbf1254b0c779a7866ff27e59097372916566ea7f8ed4b925988785c2605
+  size: 989
+  modtime: 1569610319
+/Users/jlloyd/programming-languages-2019/Assignment1/src/LexLambdaNat.hs:
+  hash: 32ccbbf3c768b1314302bb678c24c673b27790661408d80afd6fab9bf1e8492a
+  size: 49338
+  modtime: 1569873441
+/Users/jlloyd/.stack/programs/x86_64-osx/ghc-8.6.4/lib/ghc-8.6.4/include/ghcplatform.h:
+  hash: 1549d9c64c43be2e2b2f756146f102c311441a9d63e1a1cd3b33e34c67e39688
+  size: 903
+  modtime: 1569870352
+/Users/jlloyd/.stack/programs/x86_64-osx/ghc-8.6.4/lib/ghc-8.6.4/include/ghcversion.h:
+  hash: 529291d4a255ef1c3ec99116d8dca391f2db7bad8b5eab6dcbf9a70354c6eedf
+  size: 524
+  modtime: 1569870352
+/Users/jlloyd/programming-languages-2019/Assignment1/src/ParLambdaNat.hs:
+  hash: 1a3dcdd93cbadee8d1a32005e5cb7b93ef95ca1149e0586f1fd8244e934ea862
+  size: 37672
+  modtime: 1569873441
+/Users/jlloyd/programming-languages-2019/Assignment1/src/Interpreter.hs:
+  hash: 5442c5d7ebc7baa6f409402ec5dc3a045edda3c50ca28e2ee49b4429975594d5
+  size: 4575
+  modtime: 1569610455
+/Users/jlloyd/programming-languages-2019/Assignment1/src/PrintLambdaNat.hs:
+  hash: 811a4abf6fe811bee061c6939b845e4673a924c37ff74f86e5c8e3d4a650a150
+  size: 4238
+  modtime: 1569873441
+/Users/jlloyd/programming-languages-2019/Assignment1/ChangeLog.md:
+  hash: 8813e52402bb3e213004a0a8162e4be2b4db6c6e9f671b755a7189dc61dd329f
+  size: 54
+  modtime: 1569610319
+/Users/jlloyd/programming-languages-2019/Assignment1/src/SkelLambdaNat.hs:
+  hash: 6c8f9a9280c18c5870e74952dcef56bf0e38b110c62d84c753fc41e36a5e9315
+  size: 804
+  modtime: 1569873441
+/Users/jlloyd/programming-languages-2019/Assignment1/README.md:
+  hash: e1f8afd3b58eddfccf93ed3b80f1acfd13e6a5c264d9042797819d1f7cfc787c
+  size: 9585
+  modtime: 1569610319
+/Users/jlloyd/programming-languages-2019/Assignment1/src/AbsLambdaNat.hs:
+  hash: ddc754de011ae8467d4af08c81bbe8c849e82941f38b83dced536e8f4f08ef6f
+  size: 511
+  modtime: 1569873441
